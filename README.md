@@ -1,18 +1,18 @@
 # 👩‍💻 Hi, I'm Tania Araque  
 
-### 💡 Computer Science Student | Cryptography • Graph Theory • AI • Finance • Data Analysis • Mathematics  
+###  Computer Science Student | Cryptography • Graph Theory • AI • Finance • Data Analysis • Mathematics  
 
 ---
 
-## 🚀 About Me  
-- 🎓 I'm currently studying **Computer Science**.  
-- 🔐 Passionate about **cryptography**, **graph theory**, **artificial intelligence**, and **finance**.  
-- 📊 Love working with **data analysis** and exploring the world of **mathematics**.  
-- 🌱 Always learning and building new projects to challenge myself.  
+##  About Me  
+-  I'm currently studying **Computer Science**.  
+-  Passionate about **cryptography**, **graph theory**, **artificial intelligence**, and **finance**.  
+-  Love working with **data analysis** and exploring the world of **mathematics**.  
+-  Always learning and building new projects to challenge myself.  
 
 ---
 
-## 🛠️ Languages & Tools  
+##  Languages & Tools  
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -26,17 +26,17 @@
 
 ---
 
-## 📌 Featured Projects  
+##  Featured Projects  
 
-- 🔑 **[Gym: Classical & Modern Cryptography](https://github.com/dmondragonn/cripto-front)**  
+- **[Portfolio Replica using Markov Chains](https://github.com/AlchemistDude/Cadenas-de-Markov-y-Aplicaciones-2024-1/tree/main/Proyecto)**  
+  *A creative project generating portfolio content using probabilistic models.*
+
+- **[Gym: Classical & Modern Cryptography](https://github.com/dmondragonn/cripto-front)**  
   *A collection of exercises and implementations to explore cryptography concepts.*  
-
-- 🌀 **[Portfolio Replica using Markov Chains](https://github.com/AlchemistDude/Cadenas-de-Markov-y-Aplicaciones-2024-1/tree/main/Proyecto)**  
-  *A creative project generating portfolio content using probabilistic models.*  
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TaniaAraque&show_icons=true&theme=radical" alt="Tania's GitHub stats" height="180px"/>
@@ -45,12 +45,12 @@
 
 ---
 
-## 🤝 Let's Connect!  
+##  Let's Connect!  
 
 <p align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:taraqued@unaul.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+ 
 </p>  
 
 ---
