@@ -28,10 +28,10 @@
 
 ## 📌 Featured Projects  
 
-- 🔑 **[Gym: Classical & Modern Cryptography](#)**  
+- 🔑 **[Gym: Classical & Modern Cryptography](https://github.com/dmondragonn/cripto-front)**  
   *A collection of exercises and implementations to explore cryptography concepts.*  
 
-- 🌀 **[Portfolio Replica using Markov Chains](#)**  
+- 🌀 **[Portfolio Replica using Markov Chains](https://github.com/AlchemistDude/Cadenas-de-Markov-y-Aplicaciones-2024-1/tree/main/Proyecto)**  
   *A creative project generating portfolio content using probabilistic models.*  
 
 ---
