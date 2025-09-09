@@ -1,6 +1,6 @@
 # 👩‍💻 Hi, I'm Tania Araque  
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" />
+  <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
 ###  Computer Science Student | Cryptography • Graph Theory • AI • Finance • Data Analysis • Mathematics  
